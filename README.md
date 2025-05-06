@@ -4,11 +4,11 @@ The dark web, a realm of anonymity and unconventional services, houses numerous 
 
 ## Archetyp Market: Your Gateway
 
-http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion
+http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion
 
-[<img src="/assets/aspect.webp" width="200">](http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion)
+[<img src="/img/beta.webp" width="200">](http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion)
 
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/assets/pane.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/img/preview.webp" alt="Archetyp Preview" style="max-width: 100%;"></a>
 
 This material is strictly for educational purposes, providing insights into the functionality of the dark web. We do not receive commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Furthermore, we do not endorse or promote illegal activities.
 
@@ -47,8 +47,8 @@ Always remember that engaging with the darknet carries legal and technical risks
 
 If you're prepared to explore Archetyp Market, here are the links to begin your journey:
 
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/assets/scan.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
-<a href="http://f6qxihgx676yvyx4ntxy72ujqosdbe2taj7z3f6q2slisv7af74oeuyd.onion"><img src="/assets/picture.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/img/summary.webp" alt="Archetyp Login" style="max-width: 100%;"></a>
+<a href="http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion"><img src="/img/near.webp" alt="Archetyp Register" style="max-width: 100%;"></a>
 
 ---
 
